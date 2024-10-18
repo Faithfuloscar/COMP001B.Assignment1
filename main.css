@@ -1,11 +1,10 @@
 body{
-    background-color: rgb(168, 208, 221);
+    background-color: rgb(58, 143, 172);
 }
 
 li {
     color: rgb(68, 85, 85);
 }
-
 h1{
     font-size: xx-large;
     text-align: center;
@@ -15,4 +14,14 @@ p{
     color: rgb(0, 0, 0);
     font-size: large;
     text-align: center;
+}
+img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-blend-mode: color;
+}
+#copyright{
+    text-align: center;
+    font-size: 15px;
 }
